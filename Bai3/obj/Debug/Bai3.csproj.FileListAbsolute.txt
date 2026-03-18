@@ -1,0 +1,6 @@
+E:\GenericCollection\Bai3\bin\Debug\Bai3.exe.config
+E:\GenericCollection\Bai3\bin\Debug\Bai3.exe
+E:\GenericCollection\Bai3\bin\Debug\Bai3.pdb
+E:\GenericCollection\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+E:\GenericCollection\Bai3\obj\Debug\Bai3.exe
+E:\GenericCollection\Bai3\obj\Debug\Bai3.pdb
