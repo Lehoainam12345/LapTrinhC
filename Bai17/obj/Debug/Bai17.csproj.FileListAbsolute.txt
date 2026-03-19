@@ -1,0 +1,6 @@
+E:\Generic327\Bai17\bin\Debug\Bai17.exe.config
+E:\Generic327\Bai17\bin\Debug\Bai17.exe
+E:\Generic327\Bai17\bin\Debug\Bai17.pdb
+E:\Generic327\Bai17\obj\Debug\Bai17.csproj.CoreCompileInputs.cache
+E:\Generic327\Bai17\obj\Debug\Bai17.exe
+E:\Generic327\Bai17\obj\Debug\Bai17.pdb
