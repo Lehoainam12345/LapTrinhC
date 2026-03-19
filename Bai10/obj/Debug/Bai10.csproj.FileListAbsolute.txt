@@ -1,0 +1,6 @@
+E:\Generic327\Bai10\bin\Debug\Bai10.exe.config
+E:\Generic327\Bai10\bin\Debug\Bai10.exe
+E:\Generic327\Bai10\bin\Debug\Bai10.pdb
+E:\Generic327\Bai10\obj\Debug\Bai10.csproj.CoreCompileInputs.cache
+E:\Generic327\Bai10\obj\Debug\Bai10.exe
+E:\Generic327\Bai10\obj\Debug\Bai10.pdb
