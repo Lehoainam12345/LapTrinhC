@@ -1,0 +1,6 @@
+E:\Generic327\Bai8\bin\Debug\Bai8.exe.config
+E:\Generic327\Bai8\bin\Debug\Bai8.exe
+E:\Generic327\Bai8\bin\Debug\Bai8.pdb
+E:\Generic327\Bai8\obj\Debug\Bai8.csproj.CoreCompileInputs.cache
+E:\Generic327\Bai8\obj\Debug\Bai8.exe
+E:\Generic327\Bai8\obj\Debug\Bai8.pdb
